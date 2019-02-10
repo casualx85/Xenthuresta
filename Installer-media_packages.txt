@@ -57,6 +57,7 @@ midori
 nano
 netctl
 pacman
+pacman-contrib
 pakku
 patch
 pciutils
